@@ -9,7 +9,26 @@ Developing classification model to distinguish right sitting pose from bad pose.
 
 I define right pose and bad pose like this : 
 
+바른 자세와 나쁜 자세는 다음 이미지를 참고하여 정의했습니다 : 
+
+![pose_example](./posture_example.png)
+
+The left size is bad pose and the right size is good pose.
+
+왼쪽이 나쁜 자세고 오른쪽이 바른 자세입니다.
 
 
 # Demo
 ![demo_image](./demo.gif)
+
+# References
+1. [Head CT Hemorrhage Kernel](https://www.kaggle.com/felipekitamura/head-ct-hemorrhage-kernel) : Basic pipline of data preprocessing, model configuration, training, and test
+2. [How do I send desktop notifications using Python 3?](https://askubuntu.com/questions/616985/how-do-i-send-desktop-notifications-using-python-3)
+3. [How to send desktop notifications in Linux.](https://terrameijar.wordpress.com/2017/06/05/how-to-send-desktop-notifications-in-linux/)
+4. [How do I use 'notify-send' to immediately replace an existing notification?
+](https://askubuntu.com/questions/161851/how-do-i-use-notify-send-to-immediately-replace-an-existing-notification)
+5. [Sound alarm when code finishes](https://stackoverflow.com/questions/16573051/sound-alarm-when-code-finishes)
+6. [Getting Started with Videos](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html)
+7. [파이썬 파트12. 예외처리](https://wayhome25.github.io/python/2017/02/26/py-12-exception/)
+8. [OpenCV 강좌 C++ & Python - 글자(문자열) 출력하는 putText 함수 사용방법](https://webnautes.tistory.com/1212)
+9. [Python - Extracting and Saving Video Frames](https://stackoverflow.com/questions/33311153/python-extracting-and-saving-video-frames)
